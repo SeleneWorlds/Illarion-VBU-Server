@@ -13,3 +13,6 @@
 [submodule "bundles/moonlight-inventory"]
 	path = bundles/moonlight-inventory
 	url = https://github.com/SeleneWorlds/Moonlight-Inventory.git
+[submodule "bundles/illarion-vbu"]
+	path = bundles/illarion-vbu
+	url = https://github.com/SeleneWorlds/Illarion-VBU-Scripts.git
