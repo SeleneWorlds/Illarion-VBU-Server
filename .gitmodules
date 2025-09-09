@@ -4,9 +4,6 @@
 [submodule "bundles/illarion-vbu-map"]
 	path = bundles/illarion-vbu-map
 	url = https://github.com/SeleneWorlds/Illarion-VBU-Map.git
-[submodule "bundles/illarion-gobaith-ui"]
-	path = bundles/illarion-gobaith-ui
-	url = https://github.com/SeleneWorlds/Illarion-Gobaith-UI.git
 [submodule "bundles/illarion-api"]
 	path = bundles/illarion-api
 	url = https://github.com/SeleneWorlds/Illarion-API.git
