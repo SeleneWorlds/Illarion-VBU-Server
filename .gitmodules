@@ -16,3 +16,9 @@
 [submodule "bundles/illarion-vbu"]
 	path = bundles/illarion-vbu
 	url = https://github.com/SeleneWorlds/Illarion-VBU-Scripts.git
+[submodule "bundles/illarion-gobaith-ui"]
+	path = bundles/illarion-gobaith-ui
+	url = https://github.com/SeleneWorlds/Illarion-Gobaith-UI.git
+[submodule "bundles/consequence"]
+	path = bundles/consequence
+	url = https://github.com/SeleneWorlds/Consequence.git
